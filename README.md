@@ -5,7 +5,7 @@
 ![nothing](https://i.pinimg.com/originals/1b/f5/31/1bf53105bd41c57ab6da9f81630b1f0a.jpg)
 ![nothing](https://i.pinimg.com/originals/49/0f/a3/490fa31eb98ab3348f0adb4a78577095.jpg) -->
 ### 🤵 About Me:
-- 🏦 Software developer from Vietnam  
+- 🏦 Software developer
 - 💻 I use daily **Java**, **Elastic Search**, **Kafka**, **Redis**, **Mongodb**, **Mysql**, **Reactjs**
 - 💬 Talk to me about technology
 - 👯 We can connect in linkedin: https://www.linkedin.com/in/quang-nguy%E1%BB%85n-duy-249597185/
