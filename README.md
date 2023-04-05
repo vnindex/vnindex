@@ -8,7 +8,7 @@
 - 🏦 Software developer from Vietnam  
 - 💻 I use daily **Java**, **Elastic Search**, **Kafka**, **Redis**, **Mongodb**, **Mysql**, **Reactjs**
 - 💬 Talk to me about technology
-- 👯 We can connect to make money
+- 👯 We can connect in linkedin: https://www.linkedin.com/in/quang-nguy%E1%BB%85n-duy-249597185/
 
 # 🔭 Languages and Tools:
 
