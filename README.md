@@ -8,7 +8,7 @@
 - 🏦 Software developer
 - 💻 I use daily **Java**, **Elastic Search**, **Kafka**, **Redis**, **Mongodb**, **Mysql**, **Reactjs**
 - 💬 Talk to me about technology
-- 👯 We can connect in linkedin: https://www.linkedin.com/in/quang-nguy%E1%BB%85n-duy-249597185/
+- 👯 We can connect in linkedin: https://www.linkedin.com/in/quang-nguyen-duy
 
 # 🔭 Languages and Tools:
 
